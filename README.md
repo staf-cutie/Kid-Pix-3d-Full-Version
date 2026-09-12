@@ -239,3 +239,6 @@ This repository serves as the official landing page for Kid Pix 3D. The software
 - 💬 **[Community](https://softyne.com/about-us/)**
 ---
 **Get the most recent version of Kid Pix 3D today!**
+
+---
+**Last updated:** 2026-09-12 14:31:11 UTC
