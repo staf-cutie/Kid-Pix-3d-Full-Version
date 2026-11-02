@@ -241,4 +241,4 @@ This repository serves as the official landing page for Kid Pix 3D. The software
 **Get the most recent version of Kid Pix 3D today!**
 
 ---
-**Last updated:** 2026-11-01 22:30:35 UTC
+**Last updated:** 2026-11-02 01:56:54 UTC
